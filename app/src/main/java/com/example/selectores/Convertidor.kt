@@ -1,3 +1,5 @@
+package com.example.selectores
+
 import java.text.DecimalFormat
 
 class Convertidor  (var meter: Int =0){
@@ -44,7 +46,7 @@ class Convertidor  (var meter: Int =0){
         yard= 0.0
     }
 
-    fun getFormatterFeet(): String = formatoDecimales.format (feet)
-    fun getFormatterInch(): String = formatoDecimales.format (inch)
-    fun getFormatterYard(): String = formatoDecimales.format (yard)
+    fun getFormattedFeet(): String = formatoDecimales.format (feet)
+    fun getFormattedInch(): String = formatoDecimales.format (inch)
+    fun getFormattedYard(): String = formatoDecimales.format (yard)
 } //Class
