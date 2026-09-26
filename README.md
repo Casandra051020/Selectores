@@ -64,5 +64,5 @@ Incluye métodos `calculateFeet()`, `calculateInch()`, `calculateYard()`, `clear
 
 ## Autora
 
-Cassie — Universidad Tecnológica de Jalisco (UTJ)
+Casandra — Universidad Tecnológica de Jalisco (UTJ)
 Materia: Desarrollo para Dispositivos Inteligentes
